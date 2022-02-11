@@ -1,0 +1,19 @@
+{
+  "name": "cvscreener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinghShreyansh/CVscreener.git"
+  },
+  "author": "Coding Journey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinghShreyansh/CVscreener/issues"
+  },
+  "homepage": "https://github.com/SinghShreyansh/CVscreener#readme"
+}
